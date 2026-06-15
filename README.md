@@ -59,7 +59,7 @@ I'm a full-stack engineer with a passion for building scalable AI-powered SaaS p
 | PR | Description | Status |
 |---|---|---|
 | [#4705](https://github.com/Agenta-AI/agenta/pull/4705) | fix: preserve string type when Text/Markdown view mode is selected | 🟡 Open |
-| [#4697](https://github.com/Agenta-AI/agenta/pull/4697) | fix: sync table header scroll with body scroll in InfiniteVirtualTable | 🟡 Open |
+| [#4697](https://github.com/Agenta-AI/agenta/pull/4697) | fix: sync table header scroll with body scroll in InfiniteVirtualTable | ✅ Merged |
 | [#4692](https://github.com/Agenta-AI/agenta/pull/4692) | feat: hide mapping/preview panel until test set is selected | ✅ Merged |
 
 ### [rubyforgood/human-essentials](https://github.com/rubyforgood/human-essentials) · Ruby on Rails
